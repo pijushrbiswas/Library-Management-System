@@ -5,7 +5,6 @@ An in-memory **Library Management System** implemented in Java to demonstrate:
 2. SOLID-oriented design using service interfaces and focused domain models
 3. Design patterns (Factory, Strategy, Observer)
 
-This version intentionally avoids persistence/databases and external APIs.
 
 ## Features
 
@@ -167,10 +166,3 @@ java -cp out com.library.management.LibraryManagementSystemDemo
 ## Logging
 
 Important events and errors are logged using Java's `java.util.logging`.
-
-## Submission (GitHub + PR)
-
-1. Push this code to a **public GitHub repository**.
-2. Create a branch for your submission work.
-3. Open a Pull Request (PR) to your main branch.
-4. Submit the **repository link** and **PR link**.
